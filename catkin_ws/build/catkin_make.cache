@@ -1,0 +1,2 @@
+beginner_tutorials:motor_controller:object_dtn
+-DCATKIN_DEVEL_PREFIX=/home/vaegar/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vaegar/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vaegar/catkin_ws/install/setup.sh

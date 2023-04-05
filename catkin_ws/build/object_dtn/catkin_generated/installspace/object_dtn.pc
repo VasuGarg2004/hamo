@@ -1,0 +1,8 @@
+prefix=/home/vaegar/catkin_ws/install
+
+Name: object_dtn
+Description: Description of object_dtn
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
